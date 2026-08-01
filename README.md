@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=MBA+II+%7C+MES+IMCC%2C+Pune;Marketing+%E2%80%A2+Data+Analysis+%E2%80%A2+Brand+Strategy;Turning+Data+into+Business+Decisions+%F0%9F%93%8A" alt="Typing SVG" /></a>
 </p>
   About Me
-Name:       Abhijeet R. Kshirsagar
+Name:       Abhijeet R.Kshirsagar
 Role:       MBA Student (Marketing Specialization)
 Institute:  MES Institute of Management & Career Courses (IMCC), Pune
 SGPA:       7.79 / 10
@@ -21,7 +21,7 @@ Focus:      Data-Driven Marketing | Consumer Behavior | Brand Strategy
   Currently exploring: Marketing Analytics, STP Frameworks, Digital Strategy
 <br clear="right"/>
  Skills & Tools
-###  Marketing & Analytics
+  Marketing & Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Market%20Research-0f3460?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Market Research"/>
   <img src="https://img.shields.io/badge/Consumer%20Behavior-1a1a2e?style=for-the-badge&logo=target&logoColor=e94560" alt="Consumer Behavior"/>
