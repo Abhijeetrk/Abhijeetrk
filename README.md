@@ -6,7 +6,7 @@
 ---
 ##  About Me
 ```yaml
-Name:       Abhijeet R. Kadam
+Name:       Abhijeet R. Kshirsagar
 Role:       MBA Student (Marketing Specialization)
 Institute:  MES Institute of Management & Career Courses (IMCC), Pune
 SGPA:       7.79 / 10
@@ -14,13 +14,13 @@ Background: Bachelor of Computer Applications (BCA) — Deogiri College, Auranga
 Focus:      Data-Driven Marketing | Consumer Behavior | Brand Strategy
 ```
 <img align="right" alt="Business Analytics" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlrNjB1MXNubXo4bG5tMWh0NDZ6dGpqNXRra3QxbXR5MHpkMzhiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
--  Pursuing **MBA in Marketing** at MES IMCC, Pune
--  Passionate about **data-driven marketing** & **consumer insights**
--  Former **Sales Executive** at SPG Technologies (worked with DRDO projects)
--  Experience in **field sales**, **inventory management** & **digital payments**
--  Skilled in **market research**, **brand strategy** & **business communication**
--  BCA graduate bridging **tech + business** for smarter marketing
--  Currently exploring: **Marketing Analytics, STP Frameworks, Digital Strategy**
+  Pursuing MBA in Marketing at MES IMCC, Pune
+ Passionate about data-driven marketing & consumer insights
+  Former Sales Executive at SPG Technologies (worked with DRDO projects)
+  Experience in field sales, inventory management & digital payments
+  Skilled in market research, brand strategy & business communication
+  BCA graduate bridging tech + business for smarter marketing
+  Currently exploring: Marketing Analytics, STP Frameworks, Digital Strategy
 <br clear="right"/>
 ---
 ##  Skills & Tools
