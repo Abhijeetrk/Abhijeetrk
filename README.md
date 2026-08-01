@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Abhijeet%20R.%20Kadam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MBA%20Marketing%20%7C%20Data-Driven%20Strategist%20%7C%20Business%20Analyst&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Abhijeet%20R.%20Kshirsagar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MBA%20Marketing%20%7C%20Data-Driven%20Strategist%20%7C%20Business%20Analyst&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=MBA+II+%7C+MES+IMCC%2C+Pune;Marketing+%E2%80%A2+Data+Analysis+%E2%80%A2+Brand+Strategy;Turning+Data+into+Business+Decisions+%F0%9F%93%8A" alt="Typing SVG" /></a>
 </p>
