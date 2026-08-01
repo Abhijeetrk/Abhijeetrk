@@ -20,7 +20,7 @@ Focus:      Data-Driven Marketing | Consumer Behavior | Brand Strategy
   BCA graduate bridging tech + business for smarter marketing
   Currently exploring: Marketing Analytics, STP Frameworks, Digital Strategy
 <br clear="right"/>
- Skills & Tools
+ Skills & Tools :- 
   Marketing & Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Market%20Research-0f3460?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Market Research"/>
